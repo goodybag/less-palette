@@ -1,0 +1,20 @@
+{
+  "name": "less-palette",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Color variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goodybag/less-palette.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodybag/less-palette/issues"
+  },
+  "homepage": "https://github.com/goodybag/less-palette"
+}
